@@ -6,7 +6,7 @@ int trimLine(char line[], int length);
 void copy(char to[], char from[]);
 void reverse(char line[], int len);
 
-int main()
+int old_main()
 {
     int len;
     int max;
